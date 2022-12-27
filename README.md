@@ -1,4 +1,3 @@
-# CMPG-323-PROJECT-4
 ## Versions
 ### Connected Office User Acceptance Testing
 This version is fully functional. Based on Legacy Windows integration</br>
